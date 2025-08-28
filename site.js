@@ -22,4 +22,3 @@ document.querySelectorAll('.sidebar button')[3].addEventListener('click', () => 
 document.querySelectorAll('.sidebar button')[4].addEventListener('click', () => {
   setLanguage('eng');
 });
-
